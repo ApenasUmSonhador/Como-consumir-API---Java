@@ -1,3 +1,9 @@
+## Java ##
+*.class
+*.war
+*.ear
+*.jar
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
